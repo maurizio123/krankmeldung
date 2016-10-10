@@ -8,7 +8,7 @@
 	</list>
 	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
 		<item value="658" key="DIALOG_WIDTH"/>
-		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
 		<item value="440" key="DIALOG_HEIGHT"/>
 		<item value="515" key="DIALOG_X_ORIGIN"/>
 		<item value="214" key="DIALOG_Y_ORIGIN"/>
@@ -18,6 +18,13 @@
 		</list>
 	</section>
 	<section name="GitCommitMessageComponent">
+		<list key="H:\krankmeldung\.git">
+			<item value="false"/>
+			<item value="m.saele &lt;m.saele@A108-14.kbbz.ads&gt;"/>
+			<item value="gdfg"/>
+			<item value="m.saele &lt;m.saele@A108-14.kbbz.ads&gt;"/>
+			<item value="7fe758e28ad4036722798c0d77e4fb9177c2be0e"/>
+		</list>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.fetch.FetchResultDialog.dialogBounds">
 		<item value="608" key="DIALOG_WIDTH"/>
@@ -25,6 +32,13 @@
 		<item value="440" key="DIALOG_HEIGHT"/>
 		<item value="540" key="DIALOG_X_ORIGIN"/>
 		<item value="214" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.MergeTargetSelectionDialog.dialogBounds">
+		<item value="526" key="DIALOG_WIDTH"/>
+		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<item value="654" key="DIALOG_HEIGHT"/>
+		<item value="581" key="DIALOG_X_ORIGIN"/>
+		<item value="71" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
 		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
